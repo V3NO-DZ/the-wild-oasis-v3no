@@ -34,6 +34,6 @@ The app uses **Supabase** to store and manage data. Below is a visual representa
 
 ## 🚀 Live Demo
 
-Check out the live deployment: [Visit Site](https://the-wild-oasis-v3no-wczo-1t8aj231r-v3nos-projects.vercel.app)
+Check out the live deployment: [Visit Site](https://the-wild-oasis-v3no-ps78a2m4d-v3nos-projects.vercel.app)
 
 ---
